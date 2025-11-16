@@ -1,6 +1,10 @@
+[![heroku](https://www.herokucdn.com/deploy/button
+.svg)) https://heroku.com/deploy?template-https://github.com/ad1212ad/Tel-uploader-bot)
+
+
 # 🚀 Telegram Uploader Bot - (MongoDB Edition)
 
-> **Note:** This is a heavily modified fork of the original [Tel-uploader-bot by MasterShayan](https://github.com/MasterShayan/Tel-uploader-bot). This version has been significantly upgraded to use a professional and persistent database backend instead of temporary JSON files.
+> **Note:** This is a heavily modified fork of the original [Tel-uploader-bot by MasterShayan](https://github.com/ad1212ad/Tel-uploader-bot). This version has been significantly upgraded to use a professional and persistent database backend instead of temporary JSON files.
 
 This version introduces several key improvements:
 - **MongoDB Integration:** All user data and file information is stored in a permanent MongoDB Atlas database, preventing data loss on server restarts.
