@@ -1,4 +1,4 @@
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)https://heroku.com/deploy?template=https://github.com/ad1212ad/Tel-uploader-bot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ad1212ad/Tel-uploader-bot)
 
 
 # 🚀 Telegram Uploader Bot - (MongoDB Edition)
